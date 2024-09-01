@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently looking for Robotic Software Engineer position or robotics research
 - 🌱 I’m currently learning RL && ML
 - 👯 I’m looking to collaborate on Robotics projects
-- 📫 How to reach me: 
+- 📫 Contact Information: 
 - ⚡ Fun fact: I love robotics world!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
