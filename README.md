@@ -2,7 +2,6 @@
 
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently looking for Robotic Software Engineer position or robotics research
 - 🌱 I’m currently learning RL && ML
