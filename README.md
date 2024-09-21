@@ -2,8 +2,7 @@
 
 
 
-
-- 🔭 I’m currently looking for Robotic Software Engineer position or robotics research
+- 🔭 I’m currently looking for Robotic Software Engineer position, robotics research or something related to robotics
 - 🌱 I’m currently learning RL && ML
 - 👯 I’m looking to collaborate on Robotics projects
 - 📫 Contact Information: 
