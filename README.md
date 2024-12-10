@@ -27,9 +27,6 @@
 ![ROS](https://img.shields.io/badge/ros-3670A0?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
 ![ROS2](https://img.shields.io/badge/ros2-3670A0?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
 
-### 🛠 &nbsp; Simulation
-![Gazebo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-
 ### 🧰 &nbsp;Version Controll & Tools 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
