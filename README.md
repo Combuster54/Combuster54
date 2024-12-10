@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently looking for Robotic Software Engineer position, robotics research or something related to robotics
-- 🌱 I’m currently learning RL && ML
+- 🌱 I’m currently learning Control Systems
 - 👯 I’m looking to collaborate on Robotics projects
 - 📫 Contact Information: 
 - ⚡ Fun fact: I love robotics world!
@@ -27,7 +27,8 @@
 ![ROS](https://img.shields.io/badge/ros-3670A0?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
 ![ROS2](https://img.shields.io/badge/ros2-3670A0?style=for-the-badge&logo=ros&logoColor=white)&nbsp;
 
-
+### 🛠 &nbsp; Simulation
+![Gazebo](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
