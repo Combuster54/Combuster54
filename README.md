@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently looking for Robotic Software Engineer position, robotics research or something related to robotics
-- 🌱 I’m currently learning Control Systems
+- 🌱 I’m currently learning Control Systems && Visual SLAM
 - 👯 I’m looking to collaborate on Robotics projects
 - 📫 Contact Information: 
 - ⚡ Fun fact: I love robotics world!
