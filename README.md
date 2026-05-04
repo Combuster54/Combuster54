@@ -2,8 +2,8 @@
 
 
 
-- 🔭 I’m currently looking for Robotic Software Engineer position, robotics research or something related to robotics
-- 🌱 I’m currently learning Control Systems && Visual SLAM
+- 🔭 Research Asistant from UPC Perú in robotics
+- 🌱 I’m currently focus in quadruped locomotion
 - 👯 I’m looking to collaborate on Robotics projects
 - 📫 Contact Information: 
 - ⚡ Fun fact: I love robotics world!
