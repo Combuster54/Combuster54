@@ -2,7 +2,6 @@
 
 
 
-- 🔭 Research Asistant from UPC Perú in robotics
 - 🌱 I’m currently focus in quadruped locomotion
 - 👯 I’m looking to collaborate on Robotics projects
 - 📫 Contact Information: 
